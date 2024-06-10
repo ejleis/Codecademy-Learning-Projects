@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\RazorCountry\\RazorCountry.csproj": {}
+    "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\RazorCountry\\RazorCountry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\RazorCountry\\RazorCountry.csproj": {
+    "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\RazorCountry\\RazorCountry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\RazorCountry\\RazorCountry.csproj",
+        "projectUniqueName": "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\RazorCountry\\RazorCountry.csproj",
         "projectName": "RazorCountry",
-        "projectPath": "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\RazorCountry\\RazorCountry.csproj",
+        "projectPath": "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\RazorCountry\\RazorCountry.csproj",
         "packagesPath": "C:\\Users\\32933\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\RazorCountry\\obj\\",
+        "outputPath": "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\RazorCountry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

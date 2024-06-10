@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\Grocer\\GroceryStore.csproj": {}
+    "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\Grocer\\GroceryStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\Grocer\\GroceryStore.csproj": {
+    "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\Grocer\\GroceryStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\Grocer\\GroceryStore.csproj",
+        "projectUniqueName": "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\Grocer\\GroceryStore.csproj",
         "projectName": "GroceryStore",
-        "projectPath": "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\Grocer\\GroceryStore.csproj",
+        "projectPath": "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\Grocer\\GroceryStore.csproj",
         "packagesPath": "C:\\Users\\32933\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32933\\Documents\\Codecademy_Learning_Projects\\Grocer\\obj\\",
+        "outputPath": "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\Grocer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
