@@ -4,6 +4,7 @@ using RazorCountry.Data;
 using RazorCountry.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace RazorCountry.Pages.Countries
 {
@@ -19,6 +20,8 @@ namespace RazorCountry.Pages.Countries
         [BindProperty]
         public Country Country { get; set; }
 
+        public SelectList Continents { get; set; }
+
         public async Task<IActionResult> OnGetAsync(string id)
         {
 
@@ -32,6 +35,9 @@ namespace RazorCountry.Pages.Countries
 
                 if (Country == null) return NotFound();
             }
+
+            Continents = new SelectList(_context.Continents, nameof(Continent.ID), nameof(Continent.Name));
+
             return Page();
         }
 

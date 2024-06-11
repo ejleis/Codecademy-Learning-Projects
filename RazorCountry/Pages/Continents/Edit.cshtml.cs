@@ -16,11 +16,10 @@ namespace RazorCountry.Pages.Continents
             _context = context;
         }
 
-        //3
         [BindProperty]
         public Continent Continent { get; set; }
 
-        // 4
+
         public async Task<IActionResult> OnGetAsync(string id)
         {
             if (id == null)
@@ -39,16 +38,13 @@ namespace RazorCountry.Pages.Continents
             return Page();
         } // end of OnGetAsync method
 
-        // 5
         public async Task<IActionResult> OnPostAsync(string id)
         {
-            // 6
             if (!ModelState.IsValid)
             {
                 return Page();
-            }// end of 6
+            }
 
-            // 7
             if (id == null)
             {
                 _context.Continents.Add(Continent);
@@ -56,13 +52,11 @@ namespace RazorCountry.Pages.Continents
             else
             {
                 _context.Attach(Continent).State = EntityState.Modified;
-            } //end of 7
+            } 
 
-            //8
             await _context.SaveChangesAsync();
 
-            //9
             return RedirectToPage("./Index");
-        } //end of 5
+        } 
     }
 }

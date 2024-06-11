@@ -11,9 +11,9 @@ namespace RazorCountry.Models
         [Display(Name="Code")]
         public string ID { get; set; }
 
-        [Required]
-        [StringLength(2, MinimumLength = 2)]
-        [RegularExpression(@"[A-Z]+", ErrorMessage = "Only 2 uppercase characters are allowed.")]
+        //[Required]
+        //[StringLength(2, MinimumLength = 2)]
+        //[RegularExpression(@"[A-Z]+", ErrorMessage = "Only 2 uppercase characters are allowed.")]
         [Display(Name="Continent")]
         public string ContinentID { get; set; }
 
@@ -29,8 +29,10 @@ namespace RazorCountry.Models
 
         [Display(Name = "UN Date")]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
-        [Range(typeof(DateTime), "10/24/1945", "1/1/2100", ErrorMessage = "The United Nations was created 10/24/1945.")]
+        //[Range(typeof(DateTime), "10/24/1945", "1/1/2100", ErrorMessage = "The United Nations was created 10/24/1945.")]
         [DataType(DataType.Date)]
         public DateTime? UnitedNationsDate { get; set; }
+
+        public Continent Continent { get; set; }
     }
 }

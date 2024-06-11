@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 namespace RazorCountry.Models
 {
@@ -10,5 +11,7 @@ namespace RazorCountry.Models
 
         [Required]
         public string Name { get; set; }
+
+        public ICollection<Country> Countries { get; set;}
     }
 }

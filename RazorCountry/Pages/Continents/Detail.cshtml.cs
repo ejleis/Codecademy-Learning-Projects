@@ -22,7 +22,10 @@ namespace RazorCountry.Pages.Continents
         {
             //Continent = await _context.Continents.FindAsync(id);
             // OR LINQ approach
-            Continent = await _context.Continents.FirstOrDefaultAsync(m => m.ID == id);
+            Continent = await _context.Continents
+                .Include(c => c.Countries)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(m => m.ID == id);
 
 
 

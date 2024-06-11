@@ -6,6 +6,7 @@ using RazorCountry.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Linq;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace RazorCountry.Pages.Countries
 {
@@ -23,14 +24,50 @@ namespace RazorCountry.Pages.Countries
         [BindProperty(SupportsGet = true)]
         public string SearchString { get; set; }
 
+        [BindProperty(SupportsGet = true)]
+        public string SortField { get; set; }
+
+        public SelectList Continents { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public string SelectedContinent {  get; set; }
+
         public async Task OnGetAsync()
         {
             var countries = from country in _context.Countries
                             select country;
-            if(!string.IsNullOrEmpty(SearchString))
+
+            if (!string.IsNullOrEmpty(SearchString))
             {
                 countries = countries.Where(cty => cty.Name == SearchString);
             }
+
+            switch (SortField)
+            {
+                case "ID":
+                    countries = countries.OrderBy(cty => cty.ID);
+                    break;
+                case "Name":
+                    countries = countries.OrderBy(cty => cty.Name);
+                    break;
+                case "ContinentID":
+                    countries = countries.OrderBy(cty => cty.ContinentID);
+                    break;
+            }
+
+            if (!string.IsNullOrEmpty(SelectedContinent))
+            {
+                countries = countries.Where(c => c.ContinentID == SelectedContinent);
+            }
+
+            // NOTE: You can use 'var' here instead of IQueryable<string>
+            // using IQueryable<string> just explicitly telling anyone who reads this code(or compiler rather) that it's a query result of strings
+            IQueryable<string> continentQuery = from c in _context.Continents
+                                                orderby c.ID
+                                                select c.ID;
+
+            Continents = new SelectList(await continentQuery.ToListAsync());
+
             Countries = await countries.ToListAsync();
         }
 

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|c:\\users\\adafish\\documents\\03 -learnings\\codecademy\\codecademy_learning_projects\\razorcountry\\pages\\countries\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|solutionrelative:razorcountry\\pages\\countries\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|c:\\users\\adafish\\documents\\03 -learnings\\codecademy\\codecademy_learning_projects\\razorcountry\\pages\\continents\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|solutionrelative:razorcountry\\pages\\continents\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|c:\\users\\adafish\\documents\\03 -learnings\\codecademy\\codecademy_learning_projects\\razorcountry\\pages\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|solutionrelative:razorcountry\\pages\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|c:\\users\\adafish\\documents\\03 -learnings\\codecademy\\codecademy_learning_projects\\razorcountry\\pages\\continents\\detail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|solutionrelative:razorcountry\\pages\\continents\\detail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|c:\\users\\adafish\\documents\\03 -learnings\\codecademy\\codecademy_learning_projects\\razorcountry\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|solutionrelative:razorcountry\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|c:\\users\\adafish\\documents\\03 -learnings\\codecademy\\codecademy_learning_projects\\razorcountry\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAC4EF1-FC79-4150-8A3B-72000CE8F1AD}|RazorCountry\\RazorCountry.csproj|solutionrelative:razorcountry\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Countries\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorCountry\\Pages\\Countries\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Countries\\Index.cshtml.cs",
-              "RelativeToolTip": "RazorCountry\\Pages\\Countries\\Index.cshtml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "Continent.cs",
+              "DocumentMoniker": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Models\\Continent.cs",
+              "RelativeDocumentMoniker": "RazorCountry\\Models\\Continent.cs",
+              "ToolTip": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Models\\Continent.cs",
+              "RelativeToolTip": "RazorCountry\\Models\\Continent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T14:33:56.183Z",
+              "WhenOpened": "2024-06-10T22:21:24.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "RazorCountry\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Models\\Country.cs",
+              "RelativeToolTip": "RazorCountry\\Models\\Country.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:21:25.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Countries\\Index.cshtml",
-              "RelativeDocumentMoniker": "RazorCountry\\Pages\\Countries\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Countries\\Index.cshtml",
-              "RelativeToolTip": "RazorCountry\\Pages\\Countries\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Title": "Detail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Continents\\Detail.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorCountry\\Pages\\Continents\\Detail.cshtml.cs",
+              "ToolTip": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Continents\\Detail.cshtml.cs",
+              "RelativeToolTip": "RazorCountry\\Pages\\Continents\\Detail.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:21:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Continents\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RazorCountry\\Pages\\Continents\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\RazorCountry\\Pages\\Continents\\Detail.cshtml",
+              "RelativeToolTip": "RazorCountry\\Pages\\Continents\\Detail.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T14:31:30.889Z",
+              "WhenOpened": "2024-06-10T22:21:41.269Z",
               "EditorCaption": ""
             }
           ]

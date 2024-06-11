@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "B0Uc7qGs+Vs=",
+  "dgSpecHash": "/YJ2Ir4NaS/d0tU43pog2XtOFiGXFse7QJHbJdz/v1kMxm8lQsNJW1T81sN4uwgzQyz3fa//qkzrw1jMelWtDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\32933\\source\\repos\\Codecademy Learning Projects\\01 - TestApp\\01 - TestApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Adafish\\Documents\\03 -Learnings\\Codecademy\\Codecademy_Learning_Projects\\01 - TestApp\\01 - TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adafish\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Adafish\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Adafish\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Adafish\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
