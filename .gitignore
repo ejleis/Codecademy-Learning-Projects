@@ -18,4 +18,12 @@
 # Ignore DesignTimeBuild directory
 /DesignTimeBuild/
 
+01 - TestApp/*
+
+Dummy_TestApp/*
+
+Grocer/*
+
+RazorCountry/obj/*
+
 .vs/
