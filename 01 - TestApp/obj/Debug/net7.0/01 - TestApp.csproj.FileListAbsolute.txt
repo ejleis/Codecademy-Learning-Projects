@@ -1,0 +1,30 @@
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\01 - TestApp.staticwebassets.runtime.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\01 - TestApp.exe
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\01 - TestApp.deps.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\01 - TestApp.runtimeconfig.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\01 - TestApp.dll
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\bin\Debug\net7.0\01 - TestApp.pdb
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.AssemblyInfoInputs.cache
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.AssemblyInfo.cs
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.RazorAssemblyInfo.cache
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.RazorAssemblyInfo.cs
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\staticwebassets\msbuild.01 - TestApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\staticwebassets\msbuild.build.01 - TestApp.props
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.01 - TestApp.props
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.01 - TestApp.props
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\scopedcss\bundle\01 - TestApp.styles.css
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\scopedcss\projectbundle\01 - TestApp.bundle.scp.css
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.dll
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\refint\01 - TestApp.dll
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.pdb
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\01 - TestApp.genruntimeconfig.cache
+C:\Users\Adafish\Documents\03 -Learnings\Codecademy\Codecademy_Learning_Projects\01 - TestApp\obj\Debug\net7.0\ref\01 - TestApp.dll
